@@ -305,3 +305,23 @@ table.glossaire td[lang="ar"], table.glossaire th[lang="ar"] { font-family: "IBM
 
 /* Formules de calcul (espaces verts) */
 .formule { font-family: var(--font-mono); background: var(--veg-soft); border-inline-start: 3px solid var(--veg); padding: 8px 12px; border-radius: 4px; overflow-wrap: anywhere; }
+
+/* Photo de fond de l'accueil (espaces verts). Remplacer images/fond_espaces_verts.jpg pour changer la photo. */
+.hero {
+  background: linear-gradient(180deg, rgba(12, 30, 20, .10), rgba(12, 30, 20, .25)), url("images/fond_espaces_verts.jpg") center 60% / cover no-repeat, var(--surface);
+}
+.hero .wrap { padding-block: 56px 52px; }
+.hero .vitrine, .hero .wrap > .eyebrow, .hero .wrap > h2.accroche, .hero .wrap > p.lead, .hero .wrap > p.enseignant, .hero .wrap > .actions, .hero .wrap > .logiciels { position: relative; }
+.hero .wrap { max-width: 1180px; }
+.hero .wrap::before {
+  content: ""; position: absolute; inset: 24px 16px; max-width: 820px;
+  background: color-mix(in srgb, var(--surface) 90%, transparent); border-radius: 10px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, .18);
+}
+[dir="rtl"] .hero .wrap::before { inset-inline-start: 16px; }
+.hero .wrap > * { padding-inline: 24px; max-width: 820px; box-sizing: border-box; }
+@media (max-width: 700px) {
+  .hero .wrap { padding-block: 32px; }
+  .hero .wrap::before { inset: 12px 6px; }
+  .hero .wrap > * { padding-inline: 14px; }
+}
