@@ -1,0 +1,298 @@
+id,espece,nom_commun,x,y,circonference_cm,hauteur_m,couronne_m,stade,etat,defaut,cible,action,id_espace,espace,quartier
+ARB-0001,Ceratonia siliqua,Caroubier,652393.5,3859316.8,79,6.6,3.5,Adulte,Bon,Aucun,Forte,Surveillance,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0002,Celtis australis,Micocoulier,652512.2,3859386.8,207,13.9,11.0,Mature,Mauvais,Fourche écorce incluse,Forte,Expertise et mise en sécurité,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0003,Celtis australis,Micocoulier,652456.9,3859293.2,53,4.9,2.7,Jeune,Bon,Aucun,Forte,Surveillance,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0004,Melia azedarach,Mélia,652441.8,3859302.1,123,9.4,5.5,Adulte,Bon,Aucun,Forte,Surveillance,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0005,Jacaranda mimosifolia,Jacaranda,652616.8,3859346.9,185,13.6,6.9,Mature,Moyen,Fourche écorce incluse,Forte,Taille de formation ou haubanage,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0006,Quercus ilex,Chêne vert,652547.1,3859336.0,112,10.3,4.6,Adulte,Bon,Aucun,Forte,Surveillance,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0007,Jacaranda mimosifolia,Jacaranda,652558.4,3859341.0,91,8.8,4.0,Adulte,Bon,Aucun,Forte,Surveillance,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0008,Celtis australis,Micocoulier,652513.7,3859294.1,198,16.1,8.5,Mature,Bon,Aucun,Forte,Surveillance,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0009,Celtis australis,Micocoulier,652455.2,3859197.5,239,21.5,10.0,Mature,Bon,Aucun,Forte,Surveillance,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0010,Celtis australis,Micocoulier,652611.4,3859241.2,166,15.4,7.0,Mature,Mauvais,Fourche écorce incluse,Forte,Expertise et mise en sécurité,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0011,Platanus x hispanica,Platane,652445.4,3859299.7,72,6.2,2.7,Adulte,Mauvais,Champignon au pied,Forte,Expertise et mise en sécurité,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0012,Celtis australis,Micocoulier,652378.6,3859284.7,164,12.8,6.8,Mature,Moyen,Branche morte,Forte,Taille d'entretien,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0013,Ailanthus altissima,Ailante,652506.5,3859393.6,92,8.5,3.6,Adulte,Bon,Aucun,Forte,Élimination (espèce envahissante),EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0014,Jacaranda mimosifolia,Jacaranda,652474.5,3859245.0,50,5.3,2.0,Jeune,Bon,Aucun,Forte,Surveillance,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0015,Pinus halepensis,Pin d'Alep,652379.8,3859201.3,186,11.9,9.9,Mature,Moyen,Blessure au collet,Forte,Taille d'entretien,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0016,Celtis australis,Micocoulier,652407.8,3859213.1,88,8.4,3.7,Adulte,Bon,Aucun,Forte,Surveillance,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0017,Olea europaea,Olivier,652375.0,3859356.2,41,4.1,1.7,Jeune,Moyen,Inclinaison,Forte,Taille d'entretien,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0018,Quercus ilex,Chêne vert,652509.4,3859289.8,200,17.7,10.0,Mature,Moyen,Branche morte,Forte,Taille d'entretien,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0019,Olea europaea,Olivier,652498.3,3859297.0,318,20.1,11.6,Sénescent,Bon,Aucun,Forte,Surveillance,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0020,Fraxinus angustifolia,Frêne oxyphylle,652444.8,3859289.8,40,4.2,1.5,Jeune,Moyen,Branche morte,Forte,Taille d'entretien,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0021,Fraxinus angustifolia,Frêne oxyphylle,652384.3,3859207.0,166,12.3,8.2,Mature,Moyen,Inclinaison,Forte,Taille d'entretien,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0022,Fraxinus angustifolia,Frêne oxyphylle,652624.8,3859269.3,40,4.4,1.8,Jeune,Bon,Aucun,Forte,Surveillance,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0023,Pinus halepensis,Pin d'Alep,652532.0,3859350.0,27,3.6,1.2,Jeune,Bon,Aucun,Forte,Surveillance,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0024,Ailanthus altissima,Ailante,652605.6,3859245.5,98,7.4,4.0,Adulte,Bon,Aucun,Forte,Élimination (espèce envahissante),EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0025,Fraxinus angustifolia,Frêne oxyphylle,652576.2,3859405.9,287,22.7,14.2,Sénescent,Moyen,Cavité,Forte,Taille d'entretien,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0026,Fraxinus angustifolia,Frêne oxyphylle,652437.2,3859254.4,157,10.9,6.5,Adulte,Bon,Aucun,Forte,Surveillance,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0027,Washingtonia robusta,Palmier de Californie,652393.3,3859255.5,152,10.8,7.4,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0028,Celtis australis,Micocoulier,652418.3,3859326.1,81,7.2,3.6,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0029,Melia azedarach,Mélia,652487.4,3859273.6,73,7.6,3.2,Adulte,Bon,Aucun,Forte,Surveillance,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0030,Jacaranda mimosifolia,Jacaranda,652495.2,3859364.0,133,9.1,7.1,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV01,Parc des Oliviers,Hay Ezzitoun
+ARB-0031,Celtis australis,Micocoulier,652290.0,3858492.1,160,13.0,8.4,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV02,Square Ezzitoun,Hay Ezzitoun
+ARB-0032,Fraxinus angustifolia,Frêne oxyphylle,652298.3,3858492.6,126,9.7,6.2,Adulte,Bon,Aucun,Forte,Surveillance,EV02,Square Ezzitoun,Hay Ezzitoun
+ARB-0033,Ailanthus altissima,Ailante,652338.2,3858530.9,155,11.0,7.3,Adulte,Moyen,Cavité,Forte,Élimination (espèce envahissante),EV02,Square Ezzitoun,Hay Ezzitoun
+ARB-0034,Fraxinus angustifolia,Frêne oxyphylle,652308.9,3858531.7,157,13.9,5.6,Adulte,Bon,Aucun,Forte,Surveillance,EV02,Square Ezzitoun,Hay Ezzitoun
+ARB-0035,Celtis australis,Micocoulier,652275.5,3858495.8,210,18.1,10.6,Sénescent,Mauvais,Champignon au pied,Forte,Expertise et mise en sécurité,EV02,Square Ezzitoun,Hay Ezzitoun
+ARB-0036,Celtis australis,Micocoulier,652307.6,3858519.9,241,17.1,9.1,Mature,Bon,Aucun,Forte,Surveillance,EV02,Square Ezzitoun,Hay Ezzitoun
+ARB-0037,Fraxinus angustifolia,Frêne oxyphylle,652264.0,3858517.4,72,6.5,3.5,Adulte,Bon,Aucun,Forte,Surveillance,EV02,Square Ezzitoun,Hay Ezzitoun
+ARB-0038,Ailanthus altissima,Ailante,652319.5,3858515.1,80,7.0,3.5,Adulte,Moyen,Cavité,Forte,Élimination (espèce envahissante),EV02,Square Ezzitoun,Hay Ezzitoun
+ARB-0039,Melia azedarach,Mélia,652270.6,3858485.8,223,18.3,9.4,Mature,Mauvais,Champignon au pied,Forte,Expertise et mise en sécurité,EV02,Square Ezzitoun,Hay Ezzitoun
+ARB-0040,Olea europaea,Olivier,653476.5,3858896.0,259,19.4,12.4,Mature,Mauvais,Cavité,Moyenne,Expertise et mise en sécurité,EV03,Jardin de la Cité des Pins,Cité des Pins
+ARB-0041,Cupressus sempervirens,Cyprès de Provence,653518.0,3858869.3,47,5.1,2.2,Jeune,Bon,Aucun,Moyenne,Surveillance,EV03,Jardin de la Cité des Pins,Cité des Pins
+ARB-0042,Celtis australis,Micocoulier,653484.5,3858870.3,199,16.2,9.7,Mature,Moyen,Fourche écorce incluse,Moyenne,Taille de formation ou haubanage,EV03,Jardin de la Cité des Pins,Cité des Pins
+ARB-0043,Melia azedarach,Mélia,653510.5,3858872.6,47,5.4,2.5,Jeune,Bon,Aucun,Moyenne,Surveillance,EV03,Jardin de la Cité des Pins,Cité des Pins
+ARB-0044,Ailanthus altissima,Ailante,653491.7,3858894.7,198,12.7,7.6,Mature,Bon,Aucun,Moyenne,Élimination (espèce envahissante),EV03,Jardin de la Cité des Pins,Cité des Pins
+ARB-0045,Celtis australis,Micocoulier,653548.6,3858913.3,101,8.7,4.4,Adulte,Bon,Aucun,Moyenne,Surveillance,EV03,Jardin de la Cité des Pins,Cité des Pins
+ARB-0046,Ceratonia siliqua,Caroubier,653444.8,3858889.8,197,15.1,8.9,Mature,Moyen,Cavité,Moyenne,Taille d'entretien,EV03,Jardin de la Cité des Pins,Cité des Pins
+ARB-0047,Ceratonia siliqua,Caroubier,653518.0,3858928.7,75,6.2,3.7,Adulte,Moyen,Inclinaison,Moyenne,Taille d'entretien,EV03,Jardin de la Cité des Pins,Cité des Pins
+ARB-0048,Fraxinus angustifolia,Frêne oxyphylle,653499.9,3858879.8,214,19.3,10.3,Sénescent,Bon,Aucun,Moyenne,Surveillance,EV03,Jardin de la Cité des Pins,Cité des Pins
+ARB-0049,Celtis australis,Micocoulier,653552.1,3858914.0,134,11.7,5.5,Adulte,Bon,Aucun,Moyenne,Surveillance,EV03,Jardin de la Cité des Pins,Cité des Pins
+ARB-0050,Washingtonia robusta,Palmier de Californie,653712.6,3859583.7,46,17.1,1.7,Jeune,Moyen,Branche morte,Forte,Taille d'entretien,EV04,Square des Écoles,Cité des Pins
+ARB-0051,Washingtonia robusta,Palmier de Californie,653679.3,3859608.4,84,17.0,4.2,Adulte,Bon,Aucun,Forte,Surveillance,EV04,Square des Écoles,Cité des Pins
+ARB-0052,Pinus halepensis,Pin d'Alep,653727.9,3859607.6,47,4.2,2.4,Jeune,Moyen,Blessure au collet,Forte,Taille d'entretien,EV04,Square des Écoles,Cité des Pins
+ARB-0053,Fraxinus angustifolia,Frêne oxyphylle,653730.2,3859613.4,131,10.8,4.8,Adulte,Bon,Aucun,Forte,Surveillance,EV04,Square des Écoles,Cité des Pins
+ARB-0054,Celtis australis,Micocoulier,653674.3,3859619.8,214,13.7,11.2,Sénescent,Mauvais,Champignon au pied,Forte,Expertise et mise en sécurité,EV04,Square des Écoles,Cité des Pins
+ARB-0055,Fraxinus angustifolia,Frêne oxyphylle,653696.5,3859616.5,40,4.3,1.7,Jeune,Mauvais,Fourche écorce incluse,Forte,Expertise et mise en sécurité,EV04,Square des Écoles,Cité des Pins
+ARB-0056,Celtis australis,Micocoulier,653686.0,3859591.3,101,7.7,5.3,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV04,Square des Écoles,Cité des Pins
+ARB-0057,Pinus halepensis,Pin d'Alep,653703.8,3859616.4,185,12.8,7.9,Mature,Moyen,Nids processionnaire,Forte,Échenillage,EV04,Square des Écoles,Cité des Pins
+ARB-0058,Celtis australis,Micocoulier,653678.8,3859581.6,192,16.0,8.2,Sénescent,Mauvais,Cavité,Forte,Expertise et mise en sécurité,EV04,Square des Écoles,Cité des Pins
+ARB-0059,Celtis australis,Micocoulier,654524.6,3859052.8,42,4.1,2.1,Jeune,Moyen,Branche morte,Moyenne,Taille d'entretien,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0060,Celtis australis,Micocoulier,654538.9,3859007.7,60,6.5,2.4,Jeune,Moyen,Branche morte,Moyenne,Taille d'entretien,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0061,Celtis australis,Micocoulier,654465.1,3859052.2,159,11.9,5.8,Adulte,Moyen,Branche morte,Moyenne,Taille d'entretien,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0062,Ailanthus altissima,Ailante,654497.1,3859039.5,173,14.9,8.6,Mature,Moyen,Branche morte,Moyenne,Élimination (espèce envahissante),EV05,Jardin botanique municipal,Hay El Ward
+ARB-0063,Olea europaea,Olivier,654409.4,3858960.5,74,5.9,3.1,Adulte,Moyen,Branche morte,Moyenne,Taille d'entretien,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0064,Celtis australis,Micocoulier,654471.6,3858986.9,84,6.4,3.3,Adulte,Bon,Aucun,Moyenne,Surveillance,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0065,Olea europaea,Olivier,654425.2,3859062.6,114,9.7,6.0,Adulte,Bon,Aucun,Moyenne,Surveillance,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0066,Fraxinus angustifolia,Frêne oxyphylle,654469.9,3858941.9,94,7.5,3.4,Adulte,Moyen,Fourche écorce incluse,Moyenne,Taille de formation ou haubanage,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0067,Pinus halepensis,Pin d'Alep,654512.8,3858952.7,258,22.7,9.5,Sénescent,Mort,Arbre mort,Moyenne,Abattage et replantation,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0068,Pinus halepensis,Pin d'Alep,654528.2,3858936.4,145,12.9,6.9,Adulte,Bon,Aucun,Moyenne,Surveillance,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0069,Platanus x hispanica,Platane,654475.3,3859063.4,145,9.9,6.5,Adulte,Moyen,Branche morte,Moyenne,Taille d'entretien,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0070,Cupressus sempervirens,Cyprès de Provence,654549.4,3858927.5,31,4.0,1.5,Jeune,Moyen,Branche morte,Moyenne,Taille d'entretien,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0071,Celtis australis,Micocoulier,654433.1,3859066.9,121,10.1,4.6,Adulte,Bon,Aucun,Moyenne,Surveillance,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0072,Platanus x hispanica,Platane,654548.1,3858959.4,82,6.9,3.4,Adulte,Moyen,Cavité,Moyenne,Taille d'entretien,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0073,Pinus halepensis,Pin d'Alep,654426.9,3858936.1,46,4.6,2.4,Jeune,Moyen,Nids processionnaire,Moyenne,Échenillage,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0074,Olea europaea,Olivier,654594.3,3859039.3,98,7.1,5.1,Adulte,Bon,Aucun,Moyenne,Surveillance,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0075,Ceratonia siliqua,Caroubier,654437.0,3859056.7,82,6.1,3.6,Adulte,Mauvais,Cavité,Moyenne,Expertise et mise en sécurité,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0076,Celtis australis,Micocoulier,654427.3,3858972.8,110,10.2,5.5,Adulte,Bon,Aucun,Moyenne,Surveillance,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0077,Pinus halepensis,Pin d'Alep,654512.0,3859039.5,101,9.0,5.0,Adulte,Moyen,Nids processionnaire,Moyenne,Échenillage,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0078,Ceratonia siliqua,Caroubier,654436.5,3858965.8,214,15.1,8.7,Mature,Mauvais,Champignon au pied,Moyenne,Expertise et mise en sécurité,EV05,Jardin botanique municipal,Hay El Ward
+ARB-0079,Celtis australis,Micocoulier,654155.9,3858395.0,150,10.8,5.4,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0080,Celtis australis,Micocoulier,654168.0,3858395.2,42,4.6,2.2,Jeune,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0081,Celtis australis,Micocoulier,654180.1,3858395.3,159,12.6,7.3,Adulte,Mauvais,Champignon au pied,Forte,Expertise et mise en sécurité,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0082,Celtis australis,Micocoulier,654192.1,3858395.5,124,9.5,6.5,Adulte,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0083,Celtis australis,Micocoulier,654204.2,3858395.7,176,14.8,7.3,Mature,Mauvais,Cavité,Forte,Expertise et mise en sécurité,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0084,Celtis australis,Micocoulier,654216.2,3858395.9,191,15.4,6.9,Sénescent,Mauvais,Cavité,Forte,Expertise et mise en sécurité,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0085,Celtis australis,Micocoulier,654228.3,3858396.0,34,4.0,1.8,Jeune,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0086,Celtis australis,Micocoulier,654240.4,3858396.2,95,9.3,3.8,Adulte,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0087,Celtis australis,Micocoulier,654252.4,3858396.4,97,8.3,4.0,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0088,Celtis australis,Micocoulier,654264.5,3858396.6,42,5.0,1.5,Jeune,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0089,Celtis australis,Micocoulier,654276.6,3858396.7,60,6.0,2.7,Jeune,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0090,Celtis australis,Micocoulier,654288.6,3858396.9,49,5.4,2.0,Jeune,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0091,Celtis australis,Micocoulier,654300.7,3858397.1,245,18.1,12.9,Mature,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0092,Celtis australis,Micocoulier,654312.7,3858397.3,28,3.4,1.2,Jeune,Mauvais,Champignon au pied,Forte,Expertise et mise en sécurité,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0093,Celtis australis,Micocoulier,654324.8,3858397.4,113,7.9,5.5,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0094,Celtis australis,Micocoulier,654336.9,3858397.6,166,11.8,7.8,Mature,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0095,Celtis australis,Micocoulier,654348.9,3858397.8,50,4.7,1.9,Jeune,Mauvais,Cavité,Forte,Expertise et mise en sécurité,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0096,Celtis australis,Micocoulier,654361.0,3858397.9,254,21.9,10.3,Mature,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0097,Celtis australis,Micocoulier,654373.0,3858398.1,206,15.3,10.2,Mature,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0098,Celtis australis,Micocoulier,654385.1,3858398.3,249,15.7,13.0,Mature,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0099,Celtis australis,Micocoulier,654397.2,3858398.5,249,19.7,12.7,Mature,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0100,Celtis australis,Micocoulier,654409.2,3858398.6,110,9.6,4.1,Adulte,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0101,Celtis australis,Micocoulier,654421.3,3858398.8,85,7.6,3.4,Adulte,Mauvais,Fourche écorce incluse,Forte,Expertise et mise en sécurité,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0102,Celtis australis,Micocoulier,654433.4,3858399.0,156,13.5,7.7,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0103,Celtis australis,Micocoulier,654445.4,3858399.2,135,12.8,5.3,Adulte,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0104,Celtis australis,Micocoulier,654457.5,3858399.3,97,7.2,4.5,Adulte,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0105,Celtis australis,Micocoulier,654469.5,3858399.5,71,6.9,3.1,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0106,Celtis australis,Micocoulier,654481.6,3858399.7,180,12.0,9.3,Mature,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0107,Celtis australis,Micocoulier,654493.7,3858399.9,97,8.8,4.7,Adulte,Moyen,Inclinaison,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0108,Celtis australis,Micocoulier,654505.7,3858400.0,102,9.4,4.4,Adulte,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0109,Celtis australis,Micocoulier,654517.8,3858400.2,230,18.2,11.7,Mature,Mauvais,Fourche écorce incluse,Forte,Expertise et mise en sécurité,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0110,Celtis australis,Micocoulier,654529.9,3858400.4,86,6.8,4.2,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0111,Celtis australis,Micocoulier,654541.9,3858400.6,93,7.6,4.3,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0112,Celtis australis,Micocoulier,654554.0,3858400.7,218,19.3,10.7,Mature,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0113,Celtis australis,Micocoulier,654566.0,3858400.9,199,15.8,8.0,Mature,Mauvais,Fourche écorce incluse,Forte,Expertise et mise en sécurité,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0114,Celtis australis,Micocoulier,654578.1,3858401.1,128,11.2,5.8,Adulte,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0115,Celtis australis,Micocoulier,654590.2,3858401.3,129,9.6,6.8,Adulte,Moyen,Blessure au collet,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0116,Celtis australis,Micocoulier,654602.2,3858401.4,88,7.4,4.2,Adulte,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0117,Celtis australis,Micocoulier,654614.3,3858401.6,52,5.4,1.9,Jeune,Moyen,Cavité,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0118,Celtis australis,Micocoulier,654626.4,3858401.8,45,4.9,2.3,Jeune,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0119,Celtis australis,Micocoulier,654638.4,3858402.0,85,6.9,4.4,Adulte,Moyen,Blessure au collet,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0120,Celtis australis,Micocoulier,654650.5,3858402.1,92,9.0,3.4,Adulte,Moyen,Fourche écorce incluse,Forte,Taille de formation ou haubanage,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0121,Celtis australis,Micocoulier,654662.5,3858402.3,56,5.8,2.3,Jeune,Moyen,Inclinaison,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0122,Celtis australis,Micocoulier,654674.6,3858402.5,80,8.2,3.4,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0123,Celtis australis,Micocoulier,654686.7,3858402.6,42,4.3,2.0,Jeune,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0124,Celtis australis,Micocoulier,654698.7,3858402.8,25,3.0,1.0,Jeune,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0125,Celtis australis,Micocoulier,654710.8,3858403.0,220,17.7,8.9,Mature,Moyen,Branche morte,Forte,Taille d'entretien,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0126,Celtis australis,Micocoulier,654722.8,3858403.2,144,10.2,5.2,Adulte,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0127,Celtis australis,Micocoulier,654734.9,3858403.3,132,12.5,6.2,Adulte,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0128,Celtis australis,Micocoulier,654747.0,3858403.5,157,14.0,6.9,Adulte,Mauvais,Fourche écorce incluse,Forte,Expertise et mise en sécurité,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0129,Celtis australis,Micocoulier,654759.0,3858403.7,103,7.4,5.2,Adulte,Mauvais,Cavité,Forte,Expertise et mise en sécurité,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0130,Celtis australis,Micocoulier,654771.1,3858403.9,246,22.0,11.6,Sénescent,Mauvais,Fourche écorce incluse,Forte,Expertise et mise en sécurité,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0131,Celtis australis,Micocoulier,654783.2,3858404.0,189,12.3,8.3,Mature,Moyen,Fourche écorce incluse,Forte,Taille de formation ou haubanage,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0132,Celtis australis,Micocoulier,654795.2,3858404.2,81,6.1,3.9,Adulte,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0133,Celtis australis,Micocoulier,654807.3,3858404.4,140,12.5,7.3,Adulte,Mauvais,Fourche écorce incluse,Forte,Expertise et mise en sécurité,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0134,Celtis australis,Micocoulier,654819.3,3858404.6,47,4.8,2.3,Jeune,Moyen,Fourche écorce incluse,Forte,Taille de formation ou haubanage,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0135,Celtis australis,Micocoulier,654831.4,3858404.7,58,6.4,2.3,Jeune,Bon,Aucun,Forte,Surveillance,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0136,Celtis australis,Micocoulier,654843.5,3858404.9,194,14.8,9.2,Mature,Mauvais,Fourche écorce incluse,Forte,Expertise et mise en sécurité,EV06,Boulevard des Micocouliers,Hay El Ward
+ARB-0137,Quercus ilex,Chêne vert,655505.5,3859215.8,55,4.6,2.4,Jeune,Moyen,Branche morte,Faible,Taille d'entretien,EV07,Bois de l'Oued,Hay Ennour
+ARB-0138,Pinus halepensis,Pin d'Alep,655784.3,3858991.3,148,12.7,6.2,Adulte,Bon,Aucun,Faible,Surveillance,EV07,Bois de l'Oued,Hay Ennour
+ARB-0139,Pinus halepensis,Pin d'Alep,655468.5,3859237.1,84,6.7,3.1,Adulte,Bon,Aucun,Faible,Surveillance,EV07,Bois de l'Oued,Hay Ennour
+ARB-0140,Ceratonia siliqua,Caroubier,655704.7,3859042.9,193,16.8,8.5,Mature,Bon,Aucun,Faible,Surveillance,EV07,Bois de l'Oued,Hay Ennour
+ARB-0141,Pinus halepensis,Pin d'Alep,655685.6,3859154.2,42,4.5,2.0,Jeune,Moyen,Nids processionnaire,Faible,Échenillage,EV07,Bois de l'Oued,Hay Ennour
+ARB-0142,Pinus halepensis,Pin d'Alep,655597.5,3859065.2,163,11.9,8.4,Mature,Moyen,Nids processionnaire,Faible,Échenillage,EV07,Bois de l'Oued,Hay Ennour
+ARB-0143,Quercus ilex,Chêne vert,655600.0,3858995.0,138,12.9,5.6,Adulte,Bon,Aucun,Faible,Surveillance,EV07,Bois de l'Oued,Hay Ennour
+ARB-0144,Pinus halepensis,Pin d'Alep,655697.8,3859276.5,217,17.7,9.6,Mature,Bon,Aucun,Faible,Surveillance,EV07,Bois de l'Oued,Hay Ennour
+ARB-0145,Pinus halepensis,Pin d'Alep,655599.2,3858905.8,55,5.7,2.8,Jeune,Moyen,Nids processionnaire,Faible,Échenillage,EV07,Bois de l'Oued,Hay Ennour
+ARB-0146,Pinus halepensis,Pin d'Alep,655742.9,3858948.5,238,15.9,11.5,Mature,Moyen,Nids processionnaire,Faible,Échenillage,EV07,Bois de l'Oued,Hay Ennour
+ARB-0147,Pinus halepensis,Pin d'Alep,655607.7,3859170.1,182,12.2,7.3,Mature,Bon,Aucun,Faible,Surveillance,EV07,Bois de l'Oued,Hay Ennour
+ARB-0148,Quercus ilex,Chêne vert,655731.7,3859177.3,124,8.5,5.6,Adulte,Mauvais,Champignon au pied,Faible,Expertise et mise en sécurité,EV07,Bois de l'Oued,Hay Ennour
+ARB-0149,Pinus halepensis,Pin d'Alep,655612.2,3859094.1,42,4.2,1.8,Jeune,Moyen,Nids processionnaire,Faible,Échenillage,EV07,Bois de l'Oued,Hay Ennour
+ARB-0150,Quercus ilex,Chêne vert,655490.6,3859251.8,40,3.8,2.1,Jeune,Bon,Aucun,Faible,Surveillance,EV07,Bois de l'Oued,Hay Ennour
+ARB-0151,Fraxinus angustifolia,Frêne oxyphylle,652412.8,3861474.1,134,10.4,6.8,Adulte,Bon,Aucun,Forte,Surveillance,EV08,Square des Roses,Les Jardins
+ARB-0152,Celtis australis,Micocoulier,652407.7,3861480.6,196,15.7,7.2,Mature,Moyen,Inclinaison,Forte,Taille d'entretien,EV08,Square des Roses,Les Jardins
+ARB-0153,Pinus halepensis,Pin d'Alep,652416.4,3861515.3,153,11.5,6.1,Adulte,Bon,Aucun,Forte,Surveillance,EV08,Square des Roses,Les Jardins
+ARB-0154,Platanus x hispanica,Platane,652381.6,3861516.3,157,11.5,7.2,Adulte,Mauvais,Fourche écorce incluse,Forte,Expertise et mise en sécurité,EV08,Square des Roses,Les Jardins
+ARB-0155,Pinus halepensis,Pin d'Alep,652386.9,3861519.2,40,4.4,2.0,Jeune,Moyen,Fourche écorce incluse,Forte,Taille de formation ou haubanage,EV08,Square des Roses,Les Jardins
+ARB-0156,Pinus halepensis,Pin d'Alep,652373.9,3861511.4,199,13.0,7.9,Mature,Moyen,Nids processionnaire,Forte,Échenillage,EV08,Square des Roses,Les Jardins
+ARB-0157,Quercus ilex,Chêne vert,652436.8,3861480.2,120,8.4,5.4,Adulte,Moyen,Blessure au collet,Forte,Taille d'entretien,EV08,Square des Roses,Les Jardins
+ARB-0158,Fraxinus angustifolia,Frêne oxyphylle,652420.7,3861477.4,74,7.3,3.0,Adulte,Bon,Aucun,Forte,Surveillance,EV08,Square des Roses,Les Jardins
+ARB-0159,Celtis australis,Micocoulier,652438.1,3861525.3,105,7.8,4.7,Adulte,Mauvais,Cavité,Forte,Expertise et mise en sécurité,EV08,Square des Roses,Les Jardins
+ARB-0160,Olea europaea,Olivier,652633.3,3860618.4,132,9.3,4.9,Adulte,Bon,Aucun,Moyenne,Surveillance,EV09,Jardin des Jardins,Les Jardins
+ARB-0161,Pinus halepensis,Pin d'Alep,652671.5,3860615.9,210,16.9,8.4,Mature,Bon,Aucun,Moyenne,Surveillance,EV09,Jardin des Jardins,Les Jardins
+ARB-0162,Pinus halepensis,Pin d'Alep,652682.1,3860604.1,100,8.5,4.2,Adulte,Bon,Aucun,Moyenne,Surveillance,EV09,Jardin des Jardins,Les Jardins
+ARB-0163,Cupressus sempervirens,Cyprès de Provence,652624.3,3860616.2,31,3.4,1.5,Jeune,Bon,Aucun,Moyenne,Surveillance,EV09,Jardin des Jardins,Les Jardins
+ARB-0164,Celtis australis,Micocoulier,652640.6,3860608.4,47,5.2,1.7,Jeune,Moyen,Cavité,Moyenne,Taille d'entretien,EV09,Jardin des Jardins,Les Jardins
+ARB-0165,Washingtonia robusta,Palmier de Californie,652647.5,3860576.5,101,18.0,5.3,Adulte,Moyen,Branche morte,Moyenne,Taille d'entretien,EV09,Jardin des Jardins,Les Jardins
+ARB-0166,Platanus x hispanica,Platane,652681.6,3860579.4,259,22.5,9.5,Mature,Moyen,Branche morte,Moyenne,Taille d'entretien,EV09,Jardin des Jardins,Les Jardins
+ARB-0167,Cupressus sempervirens,Cyprès de Provence,652620.1,3860630.2,56,6.0,2.9,Jeune,Moyen,Blessure au collet,Moyenne,Taille d'entretien,EV09,Jardin des Jardins,Les Jardins
+ARB-0168,Quercus ilex,Chêne vert,652641.7,3860607.2,133,9.4,5.6,Adulte,Bon,Aucun,Moyenne,Surveillance,EV09,Jardin des Jardins,Les Jardins
+ARB-0169,Washingtonia robusta,Palmier de Californie,652638.1,3860587.1,133,15.2,5.4,Adulte,Bon,Aucun,Moyenne,Surveillance,EV09,Jardin des Jardins,Les Jardins
+ARB-0170,Celtis australis,Micocoulier,653483.7,3860986.3,44,5.0,2.2,Jeune,Mauvais,Cavité,Forte,Expertise et mise en sécurité,EV10,Placette Essalam,Hay Essalam
+ARB-0171,Washingtonia robusta,Palmier de Californie,653515.6,3860993.3,244,17.2,9.2,Mature,Bon,Aucun,Forte,Surveillance,EV10,Placette Essalam,Hay Essalam
+ARB-0172,Ailanthus altissima,Ailante,653509.6,3860980.1,25,3.5,1.2,Jeune,Bon,Aucun,Forte,Élimination (espèce envahissante),EV10,Placette Essalam,Hay Essalam
+ARB-0173,Platanus x hispanica,Platane,653502.8,3861021.3,227,16.9,10.5,Mature,Bon,Aucun,Forte,Surveillance,EV10,Placette Essalam,Hay Essalam
+ARB-0174,Platanus x hispanica,Platane,653486.9,3860994.5,257,17.3,12.1,Mature,Moyen,Branche morte,Forte,Taille d'entretien,EV10,Placette Essalam,Hay Essalam
+ARB-0175,Pinus halepensis,Pin d'Alep,653490.6,3860996.9,44,4.0,2.0,Jeune,Moyen,Nids processionnaire,Forte,Échenillage,EV10,Placette Essalam,Hay Essalam
+ARB-0176,Melia azedarach,Mélia,653489.4,3861023.7,130,11.4,6.6,Adulte,Bon,Aucun,Forte,Surveillance,EV10,Placette Essalam,Hay Essalam
+ARB-0177,Fraxinus angustifolia,Frêne oxyphylle,653485.4,3860984.9,178,16.2,6.5,Mature,Bon,Aucun,Forte,Surveillance,EV10,Placette Essalam,Hay Essalam
+ARB-0178,Celtis australis,Micocoulier,653490.2,3860987.2,87,7.7,3.3,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV10,Placette Essalam,Hay Essalam
+ARB-0179,Melia azedarach,Mélia,654545.5,3861070.1,60,5.8,2.5,Jeune,Moyen,Blessure au collet,Forte,Taille d'entretien,EV11,Parc universitaire,Cité Universitaire
+ARB-0180,Cupressus sempervirens,Cyprès de Provence,654568.5,3860949.4,125,10.0,6.3,Adulte,Bon,Aucun,Forte,Surveillance,EV11,Parc universitaire,Cité Universitaire
+ARB-0181,Quercus ilex,Chêne vert,654402.9,3860976.0,188,12.2,7.2,Sénescent,Mauvais,Cavité,Forte,Expertise et mise en sécurité,EV11,Parc universitaire,Cité Universitaire
+ARB-0182,Pinus halepensis,Pin d'Alep,654468.6,3860957.9,91,6.8,3.3,Adulte,Bon,Aucun,Forte,Surveillance,EV11,Parc universitaire,Cité Universitaire
+ARB-0183,Pinus halepensis,Pin d'Alep,654501.7,3860922.5,129,9.0,4.7,Adulte,Bon,Aucun,Forte,Surveillance,EV11,Parc universitaire,Cité Universitaire
+ARB-0184,Melia azedarach,Mélia,654571.9,3861069.3,197,16.3,9.9,Mature,Moyen,Branche morte,Forte,Taille d'entretien,EV11,Parc universitaire,Cité Universitaire
+ARB-0185,Quercus ilex,Chêne vert,654430.3,3861008.5,199,12.7,8.5,Mature,Mauvais,Fourche écorce incluse,Forte,Expertise et mise en sécurité,EV11,Parc universitaire,Cité Universitaire
+ARB-0186,Pinus halepensis,Pin d'Alep,654572.1,3861052.5,123,10.8,5.3,Adulte,Moyen,Nids processionnaire,Forte,Échenillage,EV11,Parc universitaire,Cité Universitaire
+ARB-0187,Pinus halepensis,Pin d'Alep,654493.8,3860969.3,71,6.2,3.2,Adulte,Moyen,Nids processionnaire,Forte,Échenillage,EV11,Parc universitaire,Cité Universitaire
+ARB-0188,Celtis australis,Micocoulier,654544.6,3861004.2,187,14.2,9.2,Mature,Bon,Aucun,Forte,Surveillance,EV11,Parc universitaire,Cité Universitaire
+ARB-0189,Fraxinus angustifolia,Frêne oxyphylle,654415.7,3861016.6,73,6.0,3.3,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV11,Parc universitaire,Cité Universitaire
+ARB-0190,Melia azedarach,Mélia,654458.2,3861000.0,188,13.1,8.3,Mature,Moyen,Branche morte,Forte,Taille d'entretien,EV11,Parc universitaire,Cité Universitaire
+ARB-0191,Celtis australis,Micocoulier,654609.8,3861038.5,153,12.8,6.2,Adulte,Bon,Aucun,Forte,Surveillance,EV11,Parc universitaire,Cité Universitaire
+ARB-0192,Platanus x hispanica,Platane,654556.7,3860897.9,97,9.2,4.9,Adulte,Bon,Aucun,Forte,Surveillance,EV11,Parc universitaire,Cité Universitaire
+ARB-0193,Olea europaea,Olivier,654551.1,3860933.6,33,3.6,1.4,Jeune,Bon,Aucun,Forte,Surveillance,EV11,Parc universitaire,Cité Universitaire
+ARB-0194,Fraxinus angustifolia,Frêne oxyphylle,654498.3,3861034.0,117,9.2,4.3,Adulte,Bon,Aucun,Forte,Surveillance,EV11,Parc universitaire,Cité Universitaire
+ARB-0195,Fraxinus angustifolia,Frêne oxyphylle,654403.4,3860987.7,247,15.5,8.8,Sénescent,Moyen,Branche morte,Forte,Taille d'entretien,EV11,Parc universitaire,Cité Universitaire
+ARB-0196,Ceratonia siliqua,Caroubier,654531.9,3861031.6,105,7.7,4.1,Adulte,Moyen,Cavité,Forte,Taille d'entretien,EV11,Parc universitaire,Cité Universitaire
+ARB-0197,Pinus halepensis,Pin d'Alep,654450.9,3860966.4,45,5.1,1.7,Jeune,Moyen,Nids processionnaire,Forte,Échenillage,EV11,Parc universitaire,Cité Universitaire
+ARB-0198,Fraxinus angustifolia,Frêne oxyphylle,654430.9,3860965.7,189,16.4,7.6,Sénescent,Mauvais,Champignon au pied,Forte,Expertise et mise en sécurité,EV11,Parc universitaire,Cité Universitaire
+ARB-0199,Quercus ilex,Chêne vert,654439.4,3860966.6,103,7.6,4.7,Adulte,Bon,Aucun,Forte,Surveillance,EV11,Parc universitaire,Cité Universitaire
+ARB-0200,Platanus x hispanica,Platane,654593.4,3860924.7,144,12.6,7.6,Adulte,Bon,Aucun,Forte,Surveillance,EV11,Parc universitaire,Cité Universitaire
+ARB-0201,Cupressus sempervirens,Cyprès de Provence,654455.0,3861021.0,292,25,13.7,Sénescent,Moyen,Branche morte,Forte,Taille d'entretien,EV11,Parc universitaire,Cité Universitaire
+ARB-0202,Platanus x hispanica,Platane,654529.3,3860933.7,291,20.5,11.7,Sénescent,Moyen,Branche morte,Forte,Taille d'entretien,EV11,Parc universitaire,Cité Universitaire
+ARB-0203,Jacaranda mimosifolia,Jacaranda,654413.6,3860959.5,49,4.6,2.5,Jeune,Moyen,Inclinaison,Forte,Taille d'entretien,EV11,Parc universitaire,Cité Universitaire
+ARB-0204,Cupressus sempervirens,Cyprès de Provence,654424.3,3861074.4,175,13.0,8.0,Mature,Moyen,Inclinaison,Forte,Taille d'entretien,EV11,Parc universitaire,Cité Universitaire
+ARB-0205,Fraxinus angustifolia,Frêne oxyphylle,654403.1,3861076.3,54,5.3,2.6,Jeune,Moyen,Blessure au collet,Forte,Taille d'entretien,EV11,Parc universitaire,Cité Universitaire
+ARB-0206,Celtis australis,Micocoulier,654428.6,3861082.8,236,20.6,8.9,Mature,Moyen,Fourche écorce incluse,Forte,Taille de formation ou haubanage,EV11,Parc universitaire,Cité Universitaire
+ARB-0207,Celtis australis,Micocoulier,654539.3,3860998.6,91,8.9,4.1,Adulte,Bon,Aucun,Forte,Surveillance,EV11,Parc universitaire,Cité Universitaire
+ARB-0208,Pinus halepensis,Pin d'Alep,654441.5,3860968.7,38,3.8,1.8,Jeune,Moyen,Nids processionnaire,Forte,Échenillage,EV11,Parc universitaire,Cité Universitaire
+ARB-0209,Fraxinus angustifolia,Frêne oxyphylle,654495.1,3859906.6,176,14.2,7.8,Mature,Moyen,Inclinaison,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0210,Fraxinus angustifolia,Frêne oxyphylle,654495.2,3859918.7,121,11.2,5.1,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0211,Fraxinus angustifolia,Frêne oxyphylle,654495.4,3859930.8,180,15.0,7.6,Mature,Moyen,Cavité,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0212,Fraxinus angustifolia,Frêne oxyphylle,654495.5,3859942.9,136,11.6,6.1,Adulte,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0213,Fraxinus angustifolia,Frêne oxyphylle,654495.7,3859955.0,260,16.5,10.0,Mature,Moyen,Blessure au collet,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0214,Fraxinus angustifolia,Frêne oxyphylle,654495.8,3859967.2,261,16.9,11.5,Sénescent,Mauvais,Champignon au pied,Forte,Expertise et mise en sécurité,EV12,Allée des Frênes,Cité Universitaire
+ARB-0215,Fraxinus angustifolia,Frêne oxyphylle,654496.0,3859979.3,166,11.2,7.0,Mature,Moyen,Blessure au collet,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0216,Fraxinus angustifolia,Frêne oxyphylle,654496.1,3859991.4,147,12.0,7.1,Adulte,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0217,Fraxinus angustifolia,Frêne oxyphylle,654496.3,3860003.5,219,17.4,8.6,Mature,Mauvais,Champignon au pied,Forte,Expertise et mise en sécurité,EV12,Allée des Frênes,Cité Universitaire
+ARB-0218,Fraxinus angustifolia,Frêne oxyphylle,654496.4,3860015.6,32,3.5,1.4,Jeune,Mauvais,Cavité,Forte,Expertise et mise en sécurité,EV12,Allée des Frênes,Cité Universitaire
+ARB-0219,Fraxinus angustifolia,Frêne oxyphylle,654496.6,3860027.8,117,10.2,5.7,Adulte,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0220,Fraxinus angustifolia,Frêne oxyphylle,654496.7,3860039.9,289,19.2,14.1,Sénescent,Mort,Arbre mort,Forte,Abattage et replantation,EV12,Allée des Frênes,Cité Universitaire
+ARB-0221,Fraxinus angustifolia,Frêne oxyphylle,654496.9,3860052.0,53,5.6,1.9,Jeune,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0222,Fraxinus angustifolia,Frêne oxyphylle,654497.0,3860064.1,55,4.7,2.8,Jeune,Moyen,Cavité,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0223,Fraxinus angustifolia,Frêne oxyphylle,654497.2,3860076.2,72,6.4,3.5,Adulte,Moyen,Cavité,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0224,Fraxinus angustifolia,Frêne oxyphylle,654497.3,3860088.4,200,17.4,7.6,Mature,Moyen,Blessure au collet,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0225,Fraxinus angustifolia,Frêne oxyphylle,654497.5,3860100.5,34,3.5,1.5,Jeune,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0226,Fraxinus angustifolia,Frêne oxyphylle,654497.7,3860112.6,106,10.1,4.5,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0227,Fraxinus angustifolia,Frêne oxyphylle,654497.8,3860124.7,116,8.9,5.2,Adulte,Mauvais,Champignon au pied,Forte,Expertise et mise en sécurité,EV12,Allée des Frênes,Cité Universitaire
+ARB-0228,Fraxinus angustifolia,Frêne oxyphylle,654498.0,3860136.8,73,6.3,3.1,Adulte,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0229,Fraxinus angustifolia,Frêne oxyphylle,654498.1,3860149.0,230,16.4,11.5,Sénescent,Mauvais,Cavité,Forte,Expertise et mise en sécurité,EV12,Allée des Frênes,Cité Universitaire
+ARB-0230,Fraxinus angustifolia,Frêne oxyphylle,654498.3,3860161.1,84,8.3,3.1,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0231,Fraxinus angustifolia,Frêne oxyphylle,654498.4,3860173.2,293,19.3,12.5,Sénescent,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0232,Fraxinus angustifolia,Frêne oxyphylle,654498.6,3860185.3,102,8.2,4.5,Adulte,Moyen,Inclinaison,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0233,Fraxinus angustifolia,Frêne oxyphylle,654498.7,3860197.4,33,3.4,1.5,Jeune,Moyen,Fourche écorce incluse,Forte,Taille de formation ou haubanage,EV12,Allée des Frênes,Cité Universitaire
+ARB-0234,Fraxinus angustifolia,Frêne oxyphylle,654498.9,3860209.6,159,10.5,7.3,Adulte,Moyen,Blessure au collet,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0235,Fraxinus angustifolia,Frêne oxyphylle,654499.0,3860221.7,118,8.8,6.0,Adulte,Mauvais,Cavité,Forte,Expertise et mise en sécurité,EV12,Allée des Frênes,Cité Universitaire
+ARB-0236,Fraxinus angustifolia,Frêne oxyphylle,654499.2,3860233.8,226,18.2,11.6,Mature,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0237,Fraxinus angustifolia,Frêne oxyphylle,654499.3,3860245.9,302,22.4,11.0,Sénescent,Mauvais,Champignon au pied,Forte,Expertise et mise en sécurité,EV12,Allée des Frênes,Cité Universitaire
+ARB-0238,Fraxinus angustifolia,Frêne oxyphylle,654499.5,3860258.0,172,15.3,6.7,Mature,Moyen,Branche morte,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0239,Fraxinus angustifolia,Frêne oxyphylle,654499.6,3860270.2,109,8.2,4.6,Adulte,Moyen,Fourche écorce incluse,Forte,Taille de formation ou haubanage,EV12,Allée des Frênes,Cité Universitaire
+ARB-0240,Fraxinus angustifolia,Frêne oxyphylle,654499.8,3860282.3,25,3.0,1.3,Jeune,Moyen,Inclinaison,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0241,Fraxinus angustifolia,Frêne oxyphylle,654499.9,3860294.4,190,16.7,8.3,Sénescent,Moyen,Cavité,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0242,Fraxinus angustifolia,Frêne oxyphylle,654500.1,3860306.5,87,6.7,4.6,Adulte,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0243,Fraxinus angustifolia,Frêne oxyphylle,654500.2,3860318.6,252,22.4,12.7,Mature,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0244,Fraxinus angustifolia,Frêne oxyphylle,654500.4,3860330.7,139,10.3,5.1,Adulte,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0245,Fraxinus angustifolia,Frêne oxyphylle,654500.5,3860342.9,50,4.4,2.2,Jeune,Moyen,Cavité,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0246,Fraxinus angustifolia,Frêne oxyphylle,654500.7,3860355.0,248,18.0,9.0,Mature,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0247,Fraxinus angustifolia,Frêne oxyphylle,654500.8,3860367.1,79,6.1,3.3,Adulte,Moyen,Cavité,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0248,Fraxinus angustifolia,Frêne oxyphylle,654501.0,3860379.2,82,8.4,4.1,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0249,Fraxinus angustifolia,Frêne oxyphylle,654501.1,3860391.3,208,14.1,10.1,Mature,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0250,Fraxinus angustifolia,Frêne oxyphylle,654501.3,3860403.5,188,14.9,8.3,Mature,Moyen,Blessure au collet,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0251,Fraxinus angustifolia,Frêne oxyphylle,654501.4,3860415.6,25,3.5,1.1,Jeune,Moyen,Cavité,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0252,Fraxinus angustifolia,Frêne oxyphylle,654501.6,3860427.7,102,7.7,4.4,Adulte,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0253,Fraxinus angustifolia,Frêne oxyphylle,654501.7,3860439.8,104,8.6,5.0,Adulte,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0254,Fraxinus angustifolia,Frêne oxyphylle,654501.9,3860451.9,126,9.4,5.3,Adulte,Mauvais,Cavité,Forte,Expertise et mise en sécurité,EV12,Allée des Frênes,Cité Universitaire
+ARB-0255,Fraxinus angustifolia,Frêne oxyphylle,654502.0,3860464.1,227,14.8,8.1,Sénescent,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0256,Fraxinus angustifolia,Frêne oxyphylle,654502.2,3860476.2,239,15.3,11.8,Sénescent,Moyen,Branche morte,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0257,Fraxinus angustifolia,Frêne oxyphylle,654502.3,3860488.3,318,23.6,16.8,Sénescent,Mort,Arbre mort,Forte,Abattage et replantation,EV12,Allée des Frênes,Cité Universitaire
+ARB-0258,Fraxinus angustifolia,Frêne oxyphylle,654502.5,3860500.4,144,10.3,7.5,Adulte,Mauvais,Fourche écorce incluse,Forte,Expertise et mise en sécurité,EV12,Allée des Frênes,Cité Universitaire
+ARB-0259,Fraxinus angustifolia,Frêne oxyphylle,654502.7,3860512.5,99,7.8,4.3,Adulte,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0260,Fraxinus angustifolia,Frêne oxyphylle,654502.8,3860524.7,129,11.1,6.2,Adulte,Mauvais,Fourche écorce incluse,Forte,Expertise et mise en sécurité,EV12,Allée des Frênes,Cité Universitaire
+ARB-0261,Fraxinus angustifolia,Frêne oxyphylle,654503.0,3860536.8,34,4.3,1.5,Jeune,Mauvais,Cavité,Forte,Expertise et mise en sécurité,EV12,Allée des Frênes,Cité Universitaire
+ARB-0262,Fraxinus angustifolia,Frêne oxyphylle,654503.1,3860548.9,46,5.1,1.9,Jeune,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0263,Fraxinus angustifolia,Frêne oxyphylle,654503.3,3860561.0,296,20.3,15.2,Sénescent,Moyen,Inclinaison,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0264,Fraxinus angustifolia,Frêne oxyphylle,654503.4,3860573.1,226,15.7,10.5,Sénescent,Mauvais,Champignon au pied,Forte,Expertise et mise en sécurité,EV12,Allée des Frênes,Cité Universitaire
+ARB-0265,Fraxinus angustifolia,Frêne oxyphylle,654503.6,3860585.3,102,9.0,4.5,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0266,Fraxinus angustifolia,Frêne oxyphylle,654503.7,3860597.4,252,20.9,10.7,Sénescent,Mauvais,Fourche écorce incluse,Forte,Expertise et mise en sécurité,EV12,Allée des Frênes,Cité Universitaire
+ARB-0267,Fraxinus angustifolia,Frêne oxyphylle,654503.9,3860609.5,99,7.4,4.8,Adulte,Moyen,Fourche écorce incluse,Forte,Taille de formation ou haubanage,EV12,Allée des Frênes,Cité Universitaire
+ARB-0268,Fraxinus angustifolia,Frêne oxyphylle,654504.0,3860621.6,256,19.6,12.6,Mature,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0269,Fraxinus angustifolia,Frêne oxyphylle,654504.2,3860633.7,255,16.8,10.7,Sénescent,Mauvais,Champignon au pied,Forte,Expertise et mise en sécurité,EV12,Allée des Frênes,Cité Universitaire
+ARB-0270,Fraxinus angustifolia,Frêne oxyphylle,654504.3,3860645.9,246,21.7,9.0,Mature,Moyen,Inclinaison,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0271,Fraxinus angustifolia,Frêne oxyphylle,654504.5,3860658.0,211,17.3,10.1,Mature,Moyen,Inclinaison,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0272,Fraxinus angustifolia,Frêne oxyphylle,654504.6,3860670.1,240,20.4,12.6,Mature,Moyen,Blessure au collet,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0273,Fraxinus angustifolia,Frêne oxyphylle,654504.8,3860682.2,84,6.4,3.8,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV12,Allée des Frênes,Cité Universitaire
+ARB-0274,Fraxinus angustifolia,Frêne oxyphylle,654504.9,3860694.3,34,3.7,1.5,Jeune,Bon,Aucun,Forte,Surveillance,EV12,Allée des Frênes,Cité Universitaire
+ARB-0275,Ailanthus altissima,Ailante,655277.1,3861411.5,57,6.2,2.2,Jeune,Moyen,Inclinaison,Forte,Élimination (espèce envahissante),EV13,Square El Feth,Hay El Feth
+ARB-0276,Jacaranda mimosifolia,Jacaranda,655330.1,3861413.7,133,11.3,5.8,Adulte,Bon,Aucun,Forte,Surveillance,EV13,Square El Feth,Hay El Feth
+ARB-0277,Celtis australis,Micocoulier,655331.6,3861388.6,85,7.4,4.3,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV13,Square El Feth,Hay El Feth
+ARB-0278,Quercus ilex,Chêne vert,655329.6,3861391.1,144,10.6,5.4,Adulte,Moyen,Branche morte,Forte,Taille d'entretien,EV13,Square El Feth,Hay El Feth
+ARB-0279,Pinus halepensis,Pin d'Alep,655317.3,3861390.9,97,8.3,4.0,Adulte,Mauvais,Cavité,Forte,Expertise et mise en sécurité,EV13,Square El Feth,Hay El Feth
+ARB-0280,Ceratonia siliqua,Caroubier,655289.4,3861427.2,130,9.2,4.7,Adulte,Bon,Aucun,Forte,Surveillance,EV13,Square El Feth,Hay El Feth
+ARB-0281,Celtis australis,Micocoulier,655332.1,3861377.6,190,16.5,7.1,Mature,Moyen,Inclinaison,Forte,Taille d'entretien,EV13,Square El Feth,Hay El Feth
+ARB-0282,Quercus ilex,Chêne vert,655279.8,3861413.8,52,4.6,2.7,Jeune,Moyen,Branche morte,Forte,Taille d'entretien,EV13,Square El Feth,Hay El Feth
+ARB-0283,Melia azedarach,Mélia,655309.1,3861410.4,218,17.9,8.1,Mature,Bon,Aucun,Forte,Surveillance,EV13,Square El Feth,Hay El Feth
+ARB-0284,Pinus halepensis,Pin d'Alep,655691.1,3860491.1,239,21.3,8.7,Mature,Moyen,Nids processionnaire,Faible,Échenillage,EV14,Coteau d'El Feth,Hay El Feth
+ARB-0285,Pinus halepensis,Pin d'Alep,655592.6,3860436.8,191,13.8,8.6,Mature,Bon,Aucun,Faible,Surveillance,EV14,Coteau d'El Feth,Hay El Feth
+ARB-0286,Ceratonia siliqua,Caroubier,655602.8,3860500.8,47,5.0,2.3,Jeune,Bon,Aucun,Faible,Surveillance,EV14,Coteau d'El Feth,Hay El Feth
+ARB-0287,Pinus halepensis,Pin d'Alep,655632.7,3860380.4,152,12.8,6.2,Adulte,Moyen,Branche morte,Faible,Taille d'entretien,EV14,Coteau d'El Feth,Hay El Feth
+ARB-0288,Quercus ilex,Chêne vert,655674.8,3860473.1,113,9.6,5.7,Adulte,Bon,Aucun,Faible,Surveillance,EV14,Coteau d'El Feth,Hay El Feth
+ARB-0289,Quercus ilex,Chêne vert,655725.2,3860527.1,135,10.6,5.1,Adulte,Moyen,Branche morte,Faible,Taille d'entretien,EV14,Coteau d'El Feth,Hay El Feth
+ARB-0290,Quercus ilex,Chêne vert,655642.3,3860389.7,91,6.9,4.6,Adulte,Moyen,Branche morte,Faible,Taille d'entretien,EV14,Coteau d'El Feth,Hay El Feth
+ARB-0291,Pinus halepensis,Pin d'Alep,655754.6,3860444.3,59,6.3,2.9,Jeune,Moyen,Blessure au collet,Faible,Taille d'entretien,EV14,Coteau d'El Feth,Hay El Feth
+ARB-0292,Pinus halepensis,Pin d'Alep,655593.0,3860522.2,38,4.3,1.4,Jeune,Moyen,Nids processionnaire,Faible,Échenillage,EV14,Coteau d'El Feth,Hay El Feth
+ARB-0293,Pinus halepensis,Pin d'Alep,655735.6,3860462.9,143,12.2,5.8,Adulte,Moyen,Nids processionnaire,Faible,Échenillage,EV14,Coteau d'El Feth,Hay El Feth
+ARB-0294,Pinus halepensis,Pin d'Alep,655530.4,3860585.3,107,7.5,3.9,Adulte,Bon,Aucun,Faible,Surveillance,EV14,Coteau d'El Feth,Hay El Feth
+ARB-0295,Quercus ilex,Chêne vert,655691.6,3860523.5,149,12.8,5.3,Adulte,Moyen,Branche morte,Faible,Taille d'entretien,EV14,Coteau d'El Feth,Hay El Feth
+ARB-0296,Ceratonia siliqua,Caroubier,655543.1,3860583.5,243,21.5,9.8,Mature,Bon,Aucun,Faible,Surveillance,EV14,Coteau d'El Feth,Hay El Feth
+ARB-0297,Quercus ilex,Chêne vert,655613.0,3860382.9,123,11.1,6.1,Adulte,Bon,Aucun,Faible,Surveillance,EV14,Coteau d'El Feth,Hay El Feth

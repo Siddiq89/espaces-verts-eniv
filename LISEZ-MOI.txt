@@ -1,0 +1,48 @@
+ESPACES VERTS ENIV — Concevoir, planter et gérer les espaces verts urbains
+Enseignant : BOUHAFSI SIDDIQ
+=========================================================================
+
+PARCOURS : 8 niveaux, 24 leçons, 40 questions de quiz
+  1 Comprendre les espaces verts urbains     5 Sol, plantation et irrigation
+  2 Le végétal en milieu urbain              6 Entretien et gestion durable
+  3 Inventaire et diagnostic des arbres      7 Cartographier les espaces verts avec QGIS
+  4 Concevoir et aménager un espace vert     8 Projet, budget et participation
+
+OUVRIR LE SITE
+  Double-cliquez sur index.html (fonctionne sans Internet, sauf les polices et
+  les vidéos YouTube). Ou en ligne sur GitHub Pages.
+
+LANGUES : français (par défaut), العربية (de droite à gauche), English, et
+  Tamaziɣt (interface, nom du parcours et titres des niveaux ; leçons en français).
+
+PAGES : Parcours, Vidéos (30 vidéos YouTube en français et en arabe), Téléchargements,
+  Livre d'or (même feuille Google que les sites SIG et R, colonne parcours = ev),
+  Ressources (outils gratuits, données, liens et glossaire de 62 termes fr/en/ar),
+  Administration (ajouter des vidéos).
+
+CONTENU DU DOSSIER
+  index.html, style.css, app.js     le site
+  donnees/cours.js                  niveaux, leçons, exercices et quiz (français)
+  donnees/traductions/en.js, ar.js  traductions complètes anglaise et arabe
+  donnees/traductions/ber.js        tamazight (nom du parcours, titres des niveaux)
+  donnees/langues.js                textes de l'interface dans les 4 langues
+  donnees/videos.js                 vidéos YouTube
+  donnees/fichiers.js               fichiers à télécharger
+  donnees/ressources.js             liens et glossaire
+  donnees/livre.js                  adresse du livre d'or
+  fichiers/                         TP_EV_ENIV.zip et fichiers séparés
+  generateur/                       sources Python qui produisent le contenu et les
+                                    données (facultatif)
+
+DONNÉES DE TP
+  Ville FICTIVE de 4 x 4 km près de Tlemcen, WGS 84 / UTM 30N : quartiers,
+  espaces verts (catégories de la loi n° 07-06), habitat, 297 arbres, site de
+  projet, palette végétale, ET0, modèles Excel (irrigation, devis), enquête.
+
+AJOUTER UNE VIDÉO
+  Page « Administration » du site, puis « Télécharger videos.js » et remplacer
+  donnees/videos.js. Écrire « Chaîne YouTube : Nom. » dans la description pour
+  que la chaîne apparaisse sur la page Remerciements.
+
+PROGRESSION DES ÉLÈVES
+  Enregistrée dans le navigateur de chaque poste (indépendante des sites SIG et R).

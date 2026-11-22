@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Espaces verts ENIV</title>
+<meta name="description" content="Espaces verts ENIV : apprenez à concevoir, planter et gérer les espaces verts urbains, de l'arbre au projet. Leçons, vidéos, données de TP à Tlemcen, quiz et glossaire.">
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="#accueil" aria-label="Accueil" data-t-label="accueil">
+      <svg width="34" height="34" viewBox="0 0 34 34" aria-hidden="true">
+        <rect x="1" y="1" width="32" height="32" rx="6" fill="none" stroke="currentColor" stroke-width="2"/>
+        <path d="M5 27h24" stroke="var(--contour)" stroke-width="1.6" stroke-linecap="round"/>
+        <path d="M17 27v-8" stroke="var(--contour)" stroke-width="2.2" stroke-linecap="round"/>
+        <circle cx="17" cy="14" r="7" fill="var(--veg)"/>
+        <circle cx="9" cy="22" r="3.2" fill="var(--veg)" opacity=".7"/>
+        <circle cx="25.5" cy="22.5" r="2.8" fill="var(--water)"/>
+      </svg>
+      <span><b>Espaces verts ENIV</b><small data-t="marque.sous">Espaces verts urbains — Enseignant : BOUHAFSI SIDDIQ</small></span>
+    </a>
+    <nav class="topnav" aria-label="Navigation principale" data-t-label="nav.principale">
+      <a href="#accueil" data-nav="accueil" data-t="nav.parcours">Parcours</a>
+      <a href="#videos" data-nav="videos" data-t="nav.videos">Vidéos</a>
+      <a href="#telechargements" data-nav="telechargements" data-t="nav.telechargements">Téléchargements</a>
+      <a href="#livre" data-nav="livre" data-t="nav.livre">Livre d'or</a>
+      <a href="#ressources" data-nav="ressources" data-t="nav.ressources">Ressources</a>
+      <a href="#admin" data-nav="admin" data-t="nav.admin">Administration</a>
+    </nav>
+    <select id="langue" class="langue" aria-label="Langue"><option value="fr">Français</option><option value="ar">العربية</option><option value="en">English</option><option value="ber">Tamaziɣt</option></select>
+    <div class="meter" title="Progression globale" data-t-title="progression.globale">
+      <div class="bar"><i id="meter-fill" style="width:0%"></i></div>
+      <span id="meter-text">0 %</span>
+    </div>
+  </div>
+</header>
+
+<div id="app"></div>
+
+<footer>
+  <div class="wrap">
+    <span data-t="pied.1">Espaces verts ENIV : concevoir, planter et gérer les espaces verts urbains, pour les élèves de l'ENIV · Enseignant : <b>BOUHAFSI SIDDIQ</b></span>
+    <span data-t="pied.2">Merci aux chaînes YouTube qui partagent leurs vidéos : <a href="#remerciements">Remerciements</a>. La progression est enregistrée dans ce navigateur.</span>
+  </div>
+</footer>
+
+<script src="donnees/langues.js"></script>
+<script src="donnees/cours.js"></script>
+<script src="donnees/videos.js"></script>
+<script src="donnees/fichiers.js"></script>
+<script src="donnees/livre.js"></script>
+<script src="donnees/ressources.js"></script>
+<script src="donnees/traductions/en.js"></script>
+<script src="donnees/traductions/ar.js"></script>
+<script src="donnees/traductions/ber.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

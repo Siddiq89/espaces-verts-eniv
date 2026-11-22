@@ -1,0 +1,121 @@
+id,age,sexe,frequence,mode_acces,temps_acces_min,note_ombre,note_proprete,note_securite,note_jeux,note_globale,amelioration
+1,18-30,M,Rarement,À pied,12,4,3,3,3,2,Jeux pour les grands
+2,18-30,M,Chaque semaine,Voiture,8,4,2,2,3,3,Plus d'ombre
+3,31-50,F,Chaque semaine,À pied,10,2,4,4,2,3,Plus de bancs
+4,plus de 65,M,Tous les jours,Bus,27,4,4,4,1,3,Plus de bancs
+5,31-50,F,Chaque semaine,À pied,2,1,4,3,5,4,Plus d'ombre
+6,31-50,M,Chaque semaine,À pied,9,3,2,4,4,2,Plus d'ombre
+7,plus de 65,F,Chaque semaine,À pied,10,3,3,4,2,2,Propreté
+8,plus de 65,M,Chaque mois,À pied,11,3,3,3,2,4,Plus de bancs
+9,moins de 18,F,Chaque mois,À pied,9,4,2,4,3,3,Plus d'ombre
+10,moins de 18,F,Chaque semaine,Bus,28,2,1,3,2,2,Toilettes
+11,18-30,F,Chaque semaine,À pied,7,2,1,4,3,3,Propreté
+12,51-65,F,Chaque mois,À pied,2,2,3,4,2,3,Éclairage le soir
+13,51-65,F,Tous les jours,À pied,3,2,4,2,3,2,Plus d'ombre
+14,31-50,F,Chaque mois,À pied,12,3,4,4,3,2,Plus de bancs
+15,plus de 65,M,Rarement,À pied,8,2,3,4,2,3,Point d'eau potable
+16,moins de 18,M,Rarement,À pied,8,1,4,3,1,3,Plus de bancs
+17,moins de 18,M,Rarement,À pied,10,1,3,4,3,4,Toilettes
+18,51-65,F,Chaque semaine,À pied,10,1,4,4,3,5,Point d'eau potable
+19,18-30,F,Rarement,À pied,7,1,4,5,4,2,Propreté
+20,moins de 18,F,Chaque mois,À pied,9,1,3,3,2,3,Éclairage le soir
+21,31-50,F,Chaque mois,Bus,29,1,3,5,4,3,Plus de bancs
+22,moins de 18,M,Tous les jours,À pied,11,2,2,3,3,4,Toilettes
+23,18-30,F,Rarement,À pied,12,1,2,3,3,3,Jeux pour les grands
+24,18-30,M,Rarement,À pied,8,4,4,4,2,1,Toilettes
+25,51-65,F,Chaque semaine,Bus,5,4,3,4,4,4,Plus d'ombre
+26,31-50,F,Tous les jours,À pied,3,1,3,5,2,2,Plus de bancs
+27,plus de 65,M,Chaque semaine,À pied,2,2,4,3,3,3,Plus d'ombre
+28,31-50,F,Chaque mois,Voiture,5,3,4,3,4,1,Éclairage le soir
+29,18-30,M,Tous les jours,À pied,8,3,2,5,1,2,Plus de bancs
+30,plus de 65,M,Chaque mois,À pied,4,2,3,5,1,5,Point d'eau potable
+31,moins de 18,F,Rarement,Voiture,11,4,1,5,2,1,Toilettes
+32,moins de 18,M,Tous les jours,Voiture,25,1,3,4,4,4,Plus d'ombre
+33,18-30,M,Rarement,À pied,5,3,5,3,5,4,Plus de bancs
+34,plus de 65,M,Chaque semaine,À pied,9,2,3,3,2,4,Plus d'ombre
+35,31-50,F,Tous les jours,À pied,8,2,4,4,3,5,Propreté
+36,18-30,M,Chaque semaine,À pied,3,5,4,4,4,4,Plus d'ombre
+37,plus de 65,M,Chaque semaine,À pied,10,4,5,4,2,3,Propreté
+38,18-30,F,Rarement,À pied,5,4,2,3,2,2,Plus d'ombre
+39,51-65,F,Chaque mois,Voiture,7,5,4,4,2,4,Propreté
+40,51-65,F,Chaque semaine,Voiture,18,1,2,5,3,4,Éclairage le soir
+41,moins de 18,M,Rarement,À pied,2,5,4,5,3,2,Propreté
+42,31-50,M,Chaque semaine,À pied,11,4,3,3,3,2,Plus de bancs
+43,moins de 18,M,Chaque semaine,À pied,5,2,3,2,4,4,Plus d'ombre
+44,31-50,F,Tous les jours,À pied,2,2,3,3,2,2,Propreté
+45,moins de 18,F,Chaque mois,À pied,4,2,2,3,3,2,Toilettes
+46,moins de 18,M,Chaque semaine,À pied,4,1,3,3,4,3,Plus d'ombre
+47,51-65,F,Chaque mois,À pied,7,3,2,5,4,4,Plus d'ombre
+48,51-65,M,Tous les jours,À pied,11,3,3,3,2,3,Point d'eau potable
+49,plus de 65,F,Rarement,Bus,24,4,5,3,2,3,Plus d'ombre
+50,moins de 18,F,Chaque semaine,À pied,9,2,3,3,4,3,Toilettes
+51,moins de 18,F,Chaque semaine,À pied,6,1,4,4,5,3,Plus de bancs
+52,plus de 65,F,Rarement,À pied,12,3,4,2,4,2,Toilettes
+53,18-30,M,Tous les jours,À pied,9,5,4,4,3,3,Plus d'ombre
+54,moins de 18,M,Tous les jours,À pied,5,1,3,3,3,2,Toilettes
+55,moins de 18,M,Chaque semaine,Voiture,18,5,4,3,5,3,Moins de bruit
+56,plus de 65,M,Tous les jours,À pied,5,2,4,4,1,3,Éclairage le soir
+57,plus de 65,M,Chaque mois,À pied,8,2,2,3,3,3,Plus de bancs
+58,moins de 18,M,Tous les jours,Bus,22,2,5,4,4,2,Plus d'ombre
+59,plus de 65,M,Chaque semaine,À pied,12,1,2,2,4,4,Éclairage le soir
+60,51-65,M,Chaque mois,Voiture,6,4,5,4,5,3,Plus de bancs
+61,plus de 65,M,Rarement,À pied,7,3,3,3,3,3,Éclairage le soir
+62,plus de 65,M,Chaque semaine,À pied,4,1,4,2,3,3,Plus d'ombre
+63,moins de 18,M,Chaque mois,À pied,11,2,3,4,5,4,Plus d'ombre
+64,31-50,F,Chaque mois,À pied,8,1,3,1,2,2,Toilettes
+65,51-65,F,Chaque mois,À pied,9,2,4,2,2,4,Plus de bancs
+66,plus de 65,M,Chaque mois,À pied,5,4,4,5,2,1,Toilettes
+67,51-65,F,Tous les jours,À pied,9,3,1,4,2,3,Plus d'ombre
+68,31-50,M,Tous les jours,À pied,7,1,4,5,5,2,Moins de bruit
+69,31-50,F,Chaque mois,À pied,10,1,4,5,4,3,Propreté
+70,51-65,F,Chaque semaine,À pied,8,5,5,2,4,3,Éclairage le soir
+71,18-30,M,Tous les jours,Voiture,20,2,3,2,3,4,Plus d'ombre
+72,31-50,M,Tous les jours,À pied,3,3,3,4,3,3,Toilettes
+73,18-30,F,Chaque mois,À pied,3,4,1,5,3,4,Plus d'ombre
+74,31-50,M,Rarement,À pied,10,4,2,3,4,4,Point d'eau potable
+75,moins de 18,F,Chaque mois,À pied,8,1,3,3,4,3,Toilettes
+76,31-50,M,Chaque mois,Voiture,11,4,3,3,4,2,Plus de bancs
+77,31-50,F,Chaque mois,À pied,12,2,3,3,4,4,Plus d'ombre
+78,18-30,M,Chaque semaine,Bus,23,1,5,1,5,5,Éclairage le soir
+79,31-50,F,Tous les jours,À pied,9,2,3,4,5,3,Point d'eau potable
+80,31-50,M,Chaque semaine,À pied,8,2,1,3,2,3,Éclairage le soir
+81,moins de 18,F,Rarement,Voiture,25,1,1,2,1,3,Toilettes
+82,18-30,F,Chaque semaine,À pied,12,1,2,3,1,3,Jeux pour les grands
+83,51-65,M,Chaque semaine,À pied,5,2,2,5,2,4,Plus d'ombre
+84,31-50,F,Chaque semaine,À pied,4,1,4,2,4,4,Propreté
+85,18-30,F,Tous les jours,À pied,4,4,1,4,4,2,Éclairage le soir
+86,plus de 65,F,Tous les jours,Voiture,12,2,3,2,5,4,Toilettes
+87,18-30,F,Tous les jours,À pied,6,5,3,3,2,2,Éclairage le soir
+88,moins de 18,M,Chaque semaine,Bus,11,1,5,4,1,4,Plus de bancs
+89,31-50,F,Chaque semaine,Bus,24,2,3,5,4,4,Jeux pour les grands
+90,18-30,F,Rarement,Bus,26,4,1,5,3,3,Plus d'ombre
+91,moins de 18,M,Chaque semaine,À pied,9,2,2,4,3,3,Éclairage le soir
+92,51-65,F,Chaque semaine,À pied,11,2,4,2,4,1,Plus d'ombre
+93,31-50,F,Rarement,Voiture,26,2,2,4,3,3,Plus de bancs
+94,31-50,M,Chaque mois,À pied,7,2,2,3,2,4,Plus de bancs
+95,51-65,F,Chaque semaine,Voiture,20,2,4,4,2,4,Éclairage le soir
+96,plus de 65,M,Tous les jours,À pied,4,3,5,3,3,4,Propreté
+97,18-30,M,Chaque semaine,Voiture,12,3,3,4,5,4,Propreté
+98,31-50,F,Tous les jours,À pied,8,4,5,4,3,4,Plus d'ombre
+99,31-50,F,Chaque semaine,Bus,5,2,2,3,4,3,Plus de bancs
+100,plus de 65,F,Chaque semaine,À pied,10,4,4,2,2,3,Plus d'ombre
+101,51-65,M,Chaque semaine,À pied,5,3,4,5,3,2,Plus d'ombre
+102,plus de 65,F,Chaque semaine,À pied,8,3,1,4,1,2,Plus d'ombre
+103,plus de 65,F,Tous les jours,À pied,5,3,3,3,4,3,Plus d'ombre
+104,plus de 65,F,Chaque semaine,Voiture,24,1,3,3,5,2,Toilettes
+105,18-30,F,Tous les jours,À pied,5,1,4,3,1,2,Plus de bancs
+106,18-30,M,Chaque mois,À pied,3,4,4,5,2,4,Plus de bancs
+107,moins de 18,F,Rarement,Voiture,26,2,5,4,4,4,Plus d'ombre
+108,plus de 65,F,Tous les jours,À pied,4,4,2,3,3,2,Propreté
+109,moins de 18,F,Chaque semaine,À pied,11,2,2,4,3,4,Éclairage le soir
+110,31-50,F,Chaque mois,À pied,3,3,5,3,3,3,Propreté
+111,moins de 18,F,Chaque mois,Vélo,9,3,4,4,4,4,Point d'eau potable
+112,31-50,M,Chaque semaine,Voiture,12,3,5,4,3,2,Jeux pour les grands
+113,plus de 65,F,Tous les jours,À pied,4,4,5,2,2,5,Plus de bancs
+114,moins de 18,M,Chaque semaine,À pied,3,1,3,3,4,3,Éclairage le soir
+115,plus de 65,F,Tous les jours,À pied,3,3,3,1,3,1,Plus de bancs
+116,18-30,F,Chaque mois,À pied,7,2,3,3,4,2,Plus d'ombre
+117,31-50,F,Tous les jours,À pied,12,2,2,3,4,2,Plus d'ombre
+118,51-65,M,Rarement,Bus,19,4,2,4,4,3,Jeux pour les grands
+119,31-50,F,Chaque mois,Bus,26,1,3,3,1,3,Plus d'ombre
+120,18-30,M,Chaque mois,À pied,4,1,2,3,4,2,Toilettes

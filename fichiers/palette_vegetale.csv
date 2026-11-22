@@ -1,0 +1,20 @@
+strate,espece,nom_fr,nom_ar,feuillage,hauteur_adulte_m,besoin_eau,rusticite_froid,remarques
+Arbre,Pinus halepensis,Pin d'Alep,الصنوبر الحلبي,Persistant,15,Faible,Très bonne,Local ; surveiller la processionnaire
+Arbre,Celtis australis,Micocoulier,الميس,Caduc,15,Faible à moyen,Très bonne,"Arbre d'alignement, ombre dense"
+Arbre,Fraxinus angustifolia,Frêne oxyphylle,الدردار,Caduc,18,Moyen,Très bonne,"Local ; sols frais, berges"
+Arbre,Olea europaea,Olivier,الزيتون,Persistant,8,Très faible,Bonne,Très sobre ; pollen allergisant
+Arbre,Quercus ilex,Chêne vert,البلوط الأخضر,Persistant,12,Faible,Très bonne,"Local, longévif"
+Arbre,Ceratonia siliqua,Caroubier,الخروب,Persistant,10,Très faible,Moyenne,Sensible aux fortes gelées
+Arbre,Cupressus sempervirens,Cyprès de Provence,السرو,Persistant,20,Faible,Très bonne,Brise-vent ; pollen allergisant
+Arbre,Melia azedarach,Mélia,الزنزلخت,Caduc,10,Faible,Bonne,"Fruits toxiques, éviter près des jeux"
+Arbre,Jacaranda mimosifolia,Jacaranda,الجاكرندا,Semi-persistant,10,Moyen,Faible,Gélif : éviter les zones froides
+Arbuste,Pistacia lentiscus,Lentisque,الضرو,Persistant,3,Très faible,Bonne,"Local, haies libres"
+Arbuste,Myrtus communis,Myrte,الريحان,Persistant,2.5,Faible,Moyenne,"Local, parfumé"
+Arbuste,Nerium oleander,Laurier-rose,الدفلى,Persistant,3,Faible,Moyenne,Toxique : jamais près des aires de jeux
+Arbuste,Rhamnus alaternus,Alaterne,السفير,Persistant,4,Très faible,Bonne,"Local, haies brise-vent"
+Arbuste,Lavandula dentata,Lavande dentée,الخزامى,Persistant,0.8,Très faible,Moyenne,Mellifère
+Couvre-sol,Rosmarinus officinalis 'Prostratus',Romarin rampant,إكليل الجبل الزاحف,Persistant,0.3,Très faible,Bonne,"Mellifère, talus"
+Couvre-sol,Lantana montevidensis,Lantana rampant,لانتانا زاحفة,Persistant,0.4,Faible,Faible,Gélif en hiver froid
+Grimpante,Bougainvillea glabra,Bougainvillier,الجهنمية,Persistant,6,Faible,Faible,Mur abrité au sud
+Gazon,Cynodon dactylon,Chiendent pied-de-poule (gazon),النجيل,Caduc l'hiver,0.05,Moyen,Bonne,Gazon résistant au piétinement
+À éviter,Ailanthus altissima,Ailante,شجرة السماء,Caduc,20,Faible,Très bonne,ENVAHISSANTE : ne pas planter
